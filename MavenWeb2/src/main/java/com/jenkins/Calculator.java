@@ -13,4 +13,8 @@ public class Calculator {
 	public int getMul(int x , int y) {
 		return x*y;
 	}
+	
+	public int getDiv(int x , int y) {
+		return x/y;
+	}
 }
