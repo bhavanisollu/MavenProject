@@ -9,4 +9,8 @@ public class Calculator {
 	public int getDiff(int x , int y) {
 		return x-y;
 	}
+	
+	public int getMul(int x , int y) {
+		return x*y;
+	}
 }
